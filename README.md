@@ -1,2 +1,3 @@
-# sweater
-Learning Spring Boot.
+# Sweater
+Project to learn Spring Boot.
+
